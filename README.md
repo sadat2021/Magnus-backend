@@ -13,8 +13,9 @@ This backend project return a polygon by random coordinates located inside the p
 
 ## Instruction
 
-1- Clone the backend project in to your delicated directory.
-2- Open the terminal and head to the directory and then run `npm i`. 3- The next step is running `npm run dev`.
+1- Clone the backend project in to your delicated directory.<br/>
+2- Open the terminal and head to the directory and then run `npm i`.<br/>
+3- Running `npm run dev`.<br/>
 
 ### Available scripts
 
